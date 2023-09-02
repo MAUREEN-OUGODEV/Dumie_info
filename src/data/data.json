@@ -1,0 +1,70 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": "Making your journey smooth and fast"
+  },
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Team": [
+    {
+      "img": "img/image/bree.jpeg",
+      "name": "Bridget Mutesi",
+      "job": "Software Developer || UI/UX Designer"
+    },
+    {
+      "img": "img/image/rita.jpeg",
+      "name": "Rita Khaseyi",
+      "job": "Software Developer"
+    },
+    {
+      "img": "img/image/maureen.jpeg",
+      "name": "Maureen Ougo",
+      "job": "Software Developer"
+    },
+    {
+      "img": "img/image/faith.jpeg",
+      "name": "Faith Mwamkinga",
+      "job": "Software Developer || Product Manager"
+    },
+    {
+      "img": "img/image/sera.jpeg",
+      "name": "Wanjiru Sera",
+      "job": "Software Developer"
+    }
+  ],
+  "Contact": {
+    "address": "616, Korongo Road, Nairobi Kenya",
+    "phone": "+254757770427",
+    "email": "info@Nova.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "FaUsers", 
+      "title": "Teamwork",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "FaHeart", 
+      "title": "Empathy",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "IoTrendingUp", 
+      "title": "Growth",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
